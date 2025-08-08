@@ -1,5 +1,5 @@
 -- V2 Recoded by Squtrim
-
+Print("if here the works")
 -- Instances:
 
 local InfHeal = Instance.new("ScreenGui")
