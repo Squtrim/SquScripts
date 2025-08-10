@@ -86,4 +86,3 @@ game:GetService("RunService").RenderStepped:Connect(function(q)
         o = 0
     end
 end)
---do not try to steal its bad
